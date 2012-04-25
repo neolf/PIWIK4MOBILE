@@ -154,11 +154,19 @@ class UserAgentParser
 			'nitro) opera'					=> 'OP',
 			'opera'							=> 'OP',
 
+			//QQ浏览器
+			'mqqbrowser'					=> 'QQ',
+
+
+
 			// Safari
 			'safari'						=> 'SF',
 			'applewebkit'					=> 'SF',
 
 			'titanium'						=> 'TI',
+
+			//QQ浏览器
+			'uc'							=> 'UC',
 
 			'webos'							=> 'WO',
 			'webpro'						=> 'WP',
@@ -171,6 +179,8 @@ class UserAgentParser
 			'khtml'  => array('KO'),
 			'webkit' => array('SF', 'CH', 'OW', 'AR', 'EP', 'FL', 'WO', 'AB', 'IR', 'CS', 'FD', 'HA', 'MI', 'GE', 'DF', 'BB', 'BP', 'TI'),
 			'opera'  => array('OP'),
+			'QQ 浏览器'  => array('QQ'),
+			'UC 浏览器'  => array('UC'),
 		);
 
 	// WebKit version numbers to Apple Safari version numbers (if Version/X.Y.Z not present)

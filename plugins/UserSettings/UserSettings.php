@@ -35,6 +35,15 @@ class Piwik_UserSettings extends Piwik_Plugin
 		'khtml'  => 'KHTML (Konqueror)',
 		'webkit' => 'WebKit (Safari, Chrome)',
 		'opera'  => 'Presto (Opera)',
+		'mqqbrowser'  => 'QQ浏览器',
+		'uc'  => 'UC',
+		'opera'  => 'Presto (Opera)',
+		'opera'  => 'Presto (Opera)',
+		'opera'  => 'Presto (Opera)',
+		'opera'  => 'Presto (Opera)',
+		'opera'  => 'Presto (Opera)',
+
+
 	);
 
 	/*
